@@ -4,7 +4,7 @@
 ## Índice
 - [Descripción](#descripción)
 - [Estado del proyecto](#Estadodelproyecto)
-- [Lenguaje]
+- [Lenguaje](#Lenguaje)
 
 ## Descripción
 El proyecto realizado, trata sobre la conversión de monedas. El programa tiene unas monedas predeterminadas para hacer dichas conversiones, sin embargo el usuario tiene la posibilidad de poner cualquier moneda siempre y cuando cumpla con el formato que se maneja normalmente. 
